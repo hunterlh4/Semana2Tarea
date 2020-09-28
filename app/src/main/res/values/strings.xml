@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Semana2Tarea</string>
+
+    <string name="txtnombre">Nombre</string>
+    <string name="txtapellido">Apellido</string>
+    <string name="txtsexo">Sexo</string>
+    <string name="txtedad">Edad</string>
+    <string name="txtdireccion">Direccion</string>
+    <string name="btncapturar">Capturar Camara</string>
+    <string name="btnenviar">Enviar</string>
+    <string name="txtgps">localizacion</string>
+    <string name="btnvolver">volver</string>
+</resources>
